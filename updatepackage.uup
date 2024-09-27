@@ -1,3 +1,1 @@
-GET https://github.com/w-h-at/TurboWarpImportTest/raw/refs/heads/main/HelperCat.sprite3;
-GET https://raw.githubusercontent.com/w-h-at/TurboWarpImportTest/refs/heads/main/Group%2071.png;
-GET https://raw.githubusercontent.com/w-h-at/TurboWarpImportTest/refs/heads/main/Rectangle%20289.png;
+https://github.com/w-h-at/TurboWarpImportTest/raw/refs/heads/main/HelperCat.sprite3;https://raw.githubusercontent.com/w-h-at/TurboWarpImportTest/refs/heads/main/Group%2071.png;https://raw.githubusercontent.com/w-h-at/TurboWarpImportTest/refs/heads/main/Rectangle%20289.png;
